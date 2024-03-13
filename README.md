@@ -11,7 +11,7 @@ Ajudo pequenos negócios a colocarem em prática boas ideias.
 
 ##
 
-<div style="margin-bottom: 16px;" > 
+<div> 
 - 🔭 Atualmente focado em Front-end com UI & UX <br/>
 - 🌱 Estudando e aprofundando em React <br/>
 - 👯 Minhas principais Colabs é com a <a href='https://github.com/MilenaCLeme/MilenaCLeme' target="_blank" style= `decoration: none;;` >💕Milena❤️</a><br/>
@@ -22,8 +22,14 @@ Ajudo pequenos negócios a colocarem em prática boas ideias.
 </div><br/>
 
 ##
-
+<div style="display: grid">
+  
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoRusso&show_icons=true&theme=dracula&layout=donut)](https://github.com/NetoRusso/github-readme-stats)
+
+<img alling='right' alt='Neto-Gif' src="https://media.discordapp.net/attachments/976503108828016672/1217294157824135280/Apresentacao1.gif?ex=66038087&is=65f10b87&hm=d5c3ff88f57cad71f6625860a4fc1235add649773fbcb2f7ffeed07ba445db8e&=&width=120&height=130">
+
+</div>
 
 
 <div style="display: inline_block"><br>
@@ -36,6 +42,7 @@ Ajudo pequenos negócios a colocarem em prática boas ideias.
   <img align="center" alt="Neto-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Neto-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Neto-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" />
+
 </div>
 
 ##
