@@ -51,7 +51,7 @@ Ajudo pequenos negócios a colocarem em prática boas ideias.
 
 <a href="https://www.instagram.com/donuts.tech" target="_blank" ><img height="30" width="36" src="https://www.donutstech.com.br/static/media/simboloDtOriginal.ec643dde11db3c28021d14263f65a900.svg"></a>
 <a href="https://www.instagram.com/neto.russo/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/neto-russo-8549b380/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/neto-russo/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://vercel.com/neto-russos-projects" target="_blank" ><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 </div>
