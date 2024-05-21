@@ -22,13 +22,10 @@ Ajudo pequenos negócios a colocarem em prática boas ideias.
 </div><br/>
 
 ##
-<div style="display: grid">
-  
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoRusso&show_icons=true&theme=dracula&layout=donut)](https://github.com/NetoRusso/github-readme-stats)
-
-<img alling='right' alt='Neto-Gif' src="https://media.discordapp.net/attachments/976503108828016672/1217294157824135280/Apresentacao1.gif?ex=66038087&is=65f10b87&hm=d5c3ff88f57cad71f6625860a4fc1235add649773fbcb2f7ffeed07ba445db8e&=&width=120&height=130">
-
+<div>
+<a href="https://github.com/NetoRusso">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoRusso&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoRusso&theme=dracula&show_icons=true"/>
 </div>
 
 
