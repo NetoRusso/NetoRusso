@@ -1,4 +1,4 @@
-### Olá, Sou o Neto Russo!🤓😎🧐👽
+### Olá, Sou o Neto Russo!🤓😎🧐👽 #BORACODAR
 ##
 <h3>
 Profissional de marketing especialidade em Comunicação Efetiva. <br/>
