@@ -12,9 +12,10 @@ Ajudo pequenos negócios a colocarem em prática boas ideias.
 ##
 
 <div> 
+- 💻 Portifólio <a href='https://netorusso.onrender.com/' target="_blank" style='decoration: none;'> Acesse </a><br/>
 - 🔭 Atualmente focado em Front-end com UI & UX <br/>
 - 🌱 Estudando e aprofundando em React <br/>
-- 👯 Minhas principais Colabs é com a <a href='https://github.com/MilenaCLeme' target="_blank" style= `decoration: none;;` >💕Milena❤️</a><br/>
+- 👯 Minhas principais Colabs é com a <a href='https://github.com/MilenaCLeme' target="_blank" style= `decoration: none;` >💕Milena❤️</a><br/>
 - 🍩 Donuts Tech <a href="https://donutstech.com.br"> Site</a> <br/>
 - 😄 Pronomes: Ele / Dele<br/>
 - ♿ PCD - CID M86.6  
