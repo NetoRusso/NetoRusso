@@ -18,7 +18,7 @@ Ajudo pequenos negócios a colocarem em prática boas ideias.
 - 👯 Minhas principais Colabs é com a <a href='https://github.com/MilenaCLeme' target="_blank" style= `decoration: none;` >💕Milena❤️</a><br/>
 - 🍩 Donuts Tech <a href="https://donutstech.com.br"> Site</a> <br/>
 - 😄 Pronomes: Ele / Dele<br/>
-- ♿ PCD - CID M86.6  
+- ♿ PCD - CID S58 
 
 </div><br/>
 
